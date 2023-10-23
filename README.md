@@ -14,3 +14,8 @@ puzzle-bobble 링크: https://www.crazygames.com/game/puzzle-bobble
 3. **맞추기**: 버블을 발사하여 판상의 동일한 색상의 버블들을 맞추면, 그 버블들은 터지며 점수를 얻습니다. 만약 버블들이 터진 후에 다른 버블들이 떨어져 내려와서 연쇄적으로 터지면 추가 점수를 얻을 수 있습니다.
 4. **게임 오버**: 판상의 버블들이 화면 아래로 내려오면서 발사대 까지 다가오면 게임 오버가 됩니다.
 
+**구현 모습:**
+<figure class="half">
+<img src=https://github.com/jiwoo219/puzzle-bobble/assets/78020027/7f80d93c-8fde-4a5d-b431-0d2dd76366e3 width="45%" height="45%"/>
+<img src=https://github.com/jiwoo219/puzzle-bobble/assets/78020027/b0b8bc6b-013d-4450-9084-8eb48660a85e width="45%" height="45%"/>
+</figure>
