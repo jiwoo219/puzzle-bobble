@@ -3,7 +3,8 @@
 이 프로젝트는 puzzle-bobble이라는 실제 존재하는 게임을 C++과 OpenGL을 활용해 구현한 프로젝트입니다.
 puzzle-bobble 링크: https://www.crazygames.com/game/puzzle-bobble
 
-![image](https://github.com/jiwoo219/puzzle-bobble/assets/78020027/67dc596d-098c-4c74-aef8-eb5fe413959b)
+![image](https://github.com/jiwoo219/puzzle-bobble/assets/78020027/40e0937f-b9ee-4047-8452-0364bbbdc096)
+
 
 **게임 방식:**
 
