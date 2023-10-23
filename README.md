@@ -15,7 +15,7 @@ puzzle-bobble 링크: https://www.crazygames.com/game/puzzle-bobble
 4. **게임 오버**: 판상의 버블들이 화면 아래로 내려오면서 발사대 까지 다가오면 게임 오버가 됩니다.
 
 **구현 모습:**
-<figure class="half">
+<p align="center">
 <img src=https://github.com/jiwoo219/puzzle-bobble/assets/78020027/7f80d93c-8fde-4a5d-b431-0d2dd76366e3 width="45%" height="45%"/>
 <img src=https://github.com/jiwoo219/puzzle-bobble/assets/78020027/b0b8bc6b-013d-4450-9084-8eb48660a85e width="45%" height="45%"/>
-</figure>
+</p>
